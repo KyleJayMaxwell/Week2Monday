@@ -244,7 +244,6 @@ var zoo = {};
 // 19. Create, assign three animals as your keys in the "zoo" object. The values of the animals should be empty objects.
 
 
-
 // 20. Within each animal empty object, assign a key/value pair of "timeSlept" and a number indicating the hours of sleep each animal got. (Make this up, obvi)
 
 // 21. Within each animal object, assign a object pair consisting of a key called "meals" and an empty array as the value.
